@@ -2,7 +2,7 @@ Invest with discipline, without staying up all night. 📉
 
 Colber is a technical analysis app for active Stock & Crypto investors.
 
-The reality is simple: success requires discipline and time. Yet, most investors lack the time to analyze charts properly and end up investing based on "gut feeling."
+The reality is simple. Success requires discipline and time. Yet, most investors lack the time to analyze charts properly and end up investing based on "gut feeling".
 
 Colber solves this with the Radar module (Available on iOS & Web).
 
@@ -18,4 +18,4 @@ Our algorithm and analysts scan the market to deliver actionable technical scena
 
 Our promise: We provide the analytical rigor, you keep full control over your investments.
 
-👉 Test the Radar now at colber.app
+👉 Test the Radar now on colber.app
